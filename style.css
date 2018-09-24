@@ -1,0 +1,48 @@
+html
+{
+    margin = 0;
+    padding = 0;
+    
+}
+body
+{
+    font: 100% helvetica; 
+    color: #7F7777;
+    
+    background: url(testGenBackground.jpg) no-repeat center top fixed;
+    background-size: cover;
+    
+    margin = 0; padding = 0;
+    
+    
+}
+h1
+{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 92px;
+  padding: 80px 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+  
+.elegantShadow 
+{
+    color: rgb(252, 252, 252);
+    letter-spacing: .15em;
+    text-shadow: 
+      4px 4px 0px rgb(210, 210, 210), 
+      7px 7px 0px rgb(230, 230, 230); 
+     
+
+}
+ 
+
+.heading
+{
+    text-align: center;
+}
+.div1
+{
+    
+}
